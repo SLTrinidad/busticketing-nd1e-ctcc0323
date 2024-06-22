@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BusTicketingSystemGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=BusTicketingSystemGUI()
+comment3.params=
+comment3.target=void\ initializeSeats()
+comment4.params=
+comment4.target=void\ updateFare()
+comment5.params=destinationIndex\ startingPointIndex
+comment5.target=int\ calculateFare(int,\ int)
+comment6.params=
+comment6.target=int\ generateTicketNumber()
+numComments=7
